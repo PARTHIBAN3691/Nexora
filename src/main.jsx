@@ -214,7 +214,7 @@ function App() {
           <div><button className="brand footer-brand" onClick={() => go('home')}><span className="brand-mark"><span></span><span></span><span></span></span><span>NEXORA<span className="brand-accent">.</span></span></button><p>Technology talent and consulting for businesses ready to scale.</p></div>
           <div className="footer-col"><b>Company</b><button onClick={() => go('about')}>About us</button><button onClick={() => go('services')}>Services</button><button onClick={() => go('contact')}>Contact</button></div>
           <div className="footer-col"><b>Services</b><button onClick={() => go('services')}>IT Staffing</button><button onClick={() => go('services')}>Engineering</button><button onClick={() => go('services')}>Consulting</button></div>
-          <div className="footer-col"><b>Contact</b><span><Mail size={14}/> hello@nexora.example</span><span><Phone size={14}/> +91 00000 00000</span><span><MapPin size={14}/> Chennai, India</span></div>
+          <div className="footer-col"><b>Contact</b><span><Mail size={14}/> hello@nexora.example</span><span><Phone size={14}/> +91 91765 81197</span><span><MapPin size={14}/> Chennai, India</span></div>
         </div>
         <div className="container copyright"><span>© 2026 Nexora Technologies. All rights reserved.</span><span>Privacy · Terms</span></div>
       </footer>
